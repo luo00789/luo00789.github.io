@@ -37,7 +37,7 @@
   z-index: 20;
   box-sizing: border-box;
   &:hover {
-    background: $lemon;
+    background: $grown;
   }
   transition: $sliding-menu-animation;
   &.slide {
@@ -135,7 +135,7 @@
       left: 0;
       margin-bottom: 0;
       width: 50px;
-      border: 1px solid $white;
+      border: 2px solid $black;
       margin-bottom: ($gutter / 2);
       opacity: 0.6;
       @include media($small) {
@@ -144,7 +144,7 @@
     }
     a:hover .teaser {
       opacity: 1;
-      border: 3px solid $lemon;
+      border: 3px solid $grown;
     }
     .title {
       display: block;
@@ -167,7 +167,7 @@
       }
     }
     .title:hover,.excerpt:hover,.teaser:hover{
-        color: $lemon;
+        color: $grown;
     }
   }
   .sub-menu-item > li a {
