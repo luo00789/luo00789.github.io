@@ -10,7 +10,7 @@ body {
 	font-family: $base-font;
 	color: $text-color;
     background-image:
-      linear-gradient(rgba(250, 155, 240, 9), rgba(250, 155, 240, 7)), 
+      linear-gradient(rgba(250, 105, 240, 9), rgba(250, 105, 240, 7)), 
       url('../images/oslRB.png');
 	@include font-size(16);
 }
