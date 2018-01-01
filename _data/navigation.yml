@@ -1,11 +1,11 @@
 # Site navigation links
 
-- title: studying 网页苦行僧
+- title: 网页苦行僧
   url: /studying/
   excerpt: "web designの学习笔记"
   image: hurt.gif
 
-- title: data 数据可视化
+- title: 数据可视化
   url: /data/
   excerpt: "tableauの学习笔记"
   image: hai.gif
@@ -15,7 +15,7 @@
   excerpt: "除了我没有人会去正视的作品集"
   image: tableau.gif
 
-- title: Contact 联络我
+- title: find me
   url: /contact/
   excerpt: "有事烧纸 得闲饮茶"
   image: head.gif
