@@ -1,18 +1,18 @@
 # Site navigation links
 
-- title: studying 学到秃头
+- title: studying 网页苦行僧
   url: /studying/
-  excerpt: "网页设计与制作到秃头的学习笔记"
+  excerpt: "web designの学习笔记"
   image: hurt.gif
 
 - title: data 数据可视化
   url: /data/
-  excerpt: "做表格做到秃头的学习笔记"
+  excerpt: "tableauの学习笔记"
   image: hai.gif
 
 - title: 作品集
   url: /work/
-  excerpt: "用秃头换来的作品集"
+  excerpt: "除了我没有人会去正视的作品集"
   image: tableau.gif
 
 - title: Contact 联络我
