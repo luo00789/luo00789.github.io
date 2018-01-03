@@ -1,12 +1,12 @@
 # Site navigation links
 
 - title: 网页苦行僧
-  url: /studying/studying/boom/
+  url: /studying/boom/
   excerpt: "web designの学习笔记"
   image: kuxing.jpg
 
 - title: 数据可视化
-  url: /data/studying/tableau/
+  url: /studying/tableau/
   excerpt: "tableauの学习笔记"
   image: tableau.jpg
 
