@@ -1,16 +1,16 @@
 # Site navigation links
 
-- title: 网页苦行僧
+- title: web design
   url: /studying/boom/
-  excerpt: "web designの学习笔记"
+  excerpt: "web designの勉强ノート"
   image: kuxing.jpg
 
-- title: 数据可视化
+- title: tableau
   url: /studying/tableau/
-  excerpt: "tableauの学习笔记"
+  excerpt: "tableauの勉强ノート"
   image: tableau.jpg
 
-- title: 作品集
+- title: works
   url: /SDG/tableauqizhong/tableau/tab.html
   excerpt: "僕は大切の物を"
   image: works.jpg
