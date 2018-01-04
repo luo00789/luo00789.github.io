@@ -1,12 +1,12 @@
 # Site navigation links
 
 - title: web design
-  url: /_posts/rwd/
+  url: /posts/rwd/
   excerpt: "web designの勉强ノート"
   image: kuxing.jpg
 
 - title: tableau
-  url: /_posts/infovis/
+  url: /posts/infovis/
   excerpt: "tableauの勉强ノート"
   image: tableau.jpg
 
