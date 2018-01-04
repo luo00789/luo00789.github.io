@@ -17,5 +17,10 @@
 
 - title: web works
   url: /portfolio/
+  excerpt: "面白い"
+  image: pandas.jpg
+  
+- title: find me
+  url:/contant/
   excerpt: "有事烧纸 得闲饮茶"
   image: find-x-here-it-is-quote-1.jpg
