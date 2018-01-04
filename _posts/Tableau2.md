@@ -1,0 +1,26 @@
+---
+layout: article
+title:  "信息可视化期中作品"
+date:   2017-01-04 00:03:50 +0800
+categories: infovis
+image:
+  teaser: tableau.png
+  feature: tableau.png
+excerpt: 其实，我觉得吧，压力也没这么大
+---
+
+# Tableau期中作品
+
+## 主题
+- 我们小组选择了城乡收入差距为主题
+
+## 作品
+- [小组作品](https://luo00789.github.io/infovis/tableau/tab.html)
+- [个人作品](https://luo00789.github.io/infovis/qizhong/index.html)
+
+## 小组结论
+- 人力资本因素、产业结构因素、城市化水因素与泰尔指数均达到显著关系。而经济水平因素没有达到显著。因此 ：
+协调城乡收入差距应该
+  - （1） 把握城市化发展契机。城市化主要通过农业经济结构升级，对城乡收人差距产生影响 。
+  - （2） 重视农村人力资本发展。培养高水平人才，激励人才回乡发展。 从而缩小区域间 的 城乡 收人差距
+
