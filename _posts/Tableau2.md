@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "信息可视化期中作品"
-date:   2017-01-04 00:03:50 +0800
+date:   2018-01-05
 categories: infovis
 image:
   teaser: tableau.png
