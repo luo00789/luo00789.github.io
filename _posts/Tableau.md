@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "信息可视化期末作品"
-date:   2017-01-04 00:03:50 +0800
+date:   2017-01-04
 categories: infovis
 image:
   teaser: tableau.png
@@ -15,7 +15,7 @@ excerpt: 其实，我觉得吧，压力也没这么大
 - 我选择了宝马、奔驰、本田、日产、奥迪、大众、丰田7家大家熟知的汽车公司的在全国开设分布的4S店
 
 ## 作品
-- [中国4S店（宝马、奔驰、本田、日产、奥迪、大众、丰田）](https://luo00789.github.io/infovis/index.html)
+- [中国4S店（宝马、奔驰、本田、日产、奥迪、大众、丰田）](https://luo00789.github.io/infovis/qimo/index.html)
 
 ## 个人观点（全国）
 - 首先从全国分布可以看出，无论在什么情况下，只要是现代的科技产业，都是集中于沿海地区，而西藏及新疆可以说是没多少个（新疆相对于西藏来说还要多点）
