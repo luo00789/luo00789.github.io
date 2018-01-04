@@ -1,21 +1,21 @@
 # Site navigation links
 
 - title: web design
-  url: /studying/boom/
+  url: /_posts/rwd/
   excerpt: "web designの勉强ノート"
   image: kuxing.jpg
 
 - title: tableau
-  url: /studying/tableau/
+  url: /_posts/infovis/
   excerpt: "tableauの勉强ノート"
   image: tableau.jpg
 
-- title: works
-  url: /SDG/tableauqizhong/tableau/tab.html
+- title: tableau works
+  url: /infovis/
   excerpt: "僕の大切の物を"
   image: works.jpg
 
-- title: find me
-  url: /contact/
+- title: web works
+  url: /portfolio/
   excerpt: "有事烧纸 得闲饮茶"
   image: find-x-here-it-is-quote-1.jpg
