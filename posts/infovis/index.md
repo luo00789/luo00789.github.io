@@ -2,7 +2,6 @@
 layout: archive
 title: "数据可视化学习笔记"
 date: 2018-01-04
-modified:
 excerpt: "tableau"
 ---
 
