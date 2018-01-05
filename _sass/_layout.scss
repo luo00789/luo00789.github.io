@@ -270,14 +270,12 @@
 	// expand image to cover full width of header--
 	// instead,using auto, max-width
 	img {
-		width: auto;
-		max-width: 100%;
-	}
-	@include media($large) {
+	    width: auto;
+	    max-width: 100%;
+	    @include media($large) {
 		max-width: 33%;
-	}
-	
-   }
+	    }
+         }
 }
 // make image flush with edges on small screens (only when)
 .page-image {
