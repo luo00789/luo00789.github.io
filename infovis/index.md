@@ -19,7 +19,7 @@ excerpt: "tableau wokrs"
 <param name='display_spinner' value='yes' />
 <param name='display_overlay' value='yes' />
 <param name='display_count' value='yes' /></object></div>                
-<script type='text/javascript'>                    var divElement = document.getElementById('viz1515262971979');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1366px';vizElement.style.height='795px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<script type='text/javascript'>                    var divElement = document.getElementById('viz1515262971979');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1122px';vizElement.style.height='794px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 <div class="tiles">
 {% for post in site.categories.infovis %}
