@@ -4,8 +4,8 @@ title: "信息可视化作品集"
 date: 2018-01-04
 excerpt: "tableau wokrs"
 image: 
-  feature: 故事1.png
-  teaser: 故事1.png
+  feature: 故事.png
+  teaser: 故事.png
 ---
 
 在此展示信息可视化作品集
