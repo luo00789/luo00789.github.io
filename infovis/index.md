@@ -8,7 +8,8 @@ excerpt: "tableau wokrs"
 在此展示信息可视化作品集
 
 <div class='tableauPlaceholder' id='viz1515257269156' style='position: relative'><noscript><a href='#'>
-<img alt='故事 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;-4&#47;-4S_1&#47;1_1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+<img alt='故事 1 ' src='故事1.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'>
+<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
 <param name='embed_code_version' value='3' /> 
 <param name='site_root' value='' />
 <param name='name' value='-4S_1&#47;1_1' />
