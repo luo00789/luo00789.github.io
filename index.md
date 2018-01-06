@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "最新文章"
+title: "漫漫苦行路 风雨网新梦"
 ---
 
 <div class="tiles">
