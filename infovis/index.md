@@ -7,11 +7,6 @@ excerpt: "tableau wokrs"
 
 在此展示信息可视化作品集
 
-<div class="Header">
-			<a href="/" class="LogoWrapper"><img src="故事1.png" alt="tableau" /></a>
-</div>
-
-
 <div class="tiles">
 {% for post in site.categories.infovis %}
   {% include post-grid.html %}
