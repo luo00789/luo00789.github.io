@@ -73,15 +73,15 @@
 			}
 			&:after {
 				width: 0;
-				background-color: $oxfordblue;
+				background-color: $deepgreen;
 			}
 			&:active:after,
 			&:hover:after {
 				width: 100%;
 			}
 			&:hover {
-				color: $oxfordblue;
-				background-color: $lemon;
+				color: $deepgreen;
+				background-color: $white;
 			}
 		}
 	}
