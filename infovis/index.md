@@ -26,8 +26,7 @@ h5{background: #D19F2A; color:white; border-radius:3px; padding:3px;}
 ##### 结果比较：日系车更占据国人心 
 ![系别比较]({{ "/images/tree.png" | absolute_url }})
 
-* 单就品牌为比较单位，大众居冠。
-* 然而分类别的话，还是日系车更胜一筹。
+* 单就品牌为比较单位，大众居冠，然而分类别的话，还是日系车更胜一筹。
 
 
 
