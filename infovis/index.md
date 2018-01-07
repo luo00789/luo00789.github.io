@@ -3,7 +3,7 @@ layout: archive
 title: "信息可视化作品集"
 date: 2018-01-04
 ---
-[tableau](https://public.tableau.com/views/4S_3/1?:embed=y&:display_count=yes)
+[tableau]((https://luo00789.github.io/images/%E6%95%85%E4%BA%8B.png)
 
 <div class="tiles">
 {% for post in site.categories.infovis %}
